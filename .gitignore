@@ -1,0 +1,11 @@
+/vendor/
+/logs/*
+!/logs/README.md
+/config.json
+/composer.lock
+node_modules
+.well-known/
+public/cache/
+.idea/
+.env
+.DS_Store
